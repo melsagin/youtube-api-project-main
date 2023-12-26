@@ -1,6 +1,5 @@
 # youtube-api-project
-
-An example project for data science lessons that using Youtube API.
+Youtube API.
 
 - Source: https://developers.google.com/youtube/v3/getting-started 
 
